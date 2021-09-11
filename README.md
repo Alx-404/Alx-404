@@ -55,8 +55,7 @@
 <br><p  align="center">Connect with me!<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-purple?&logo=instagram)](https://www.instagram.com/alx.py/)
 [![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/VlzzLrOj)
-[![Visits](https://badges.pufler.dev/visits/malbolgee/URI?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Alx-404)
-
+![Profile views](https://gpvc.arturio.dev/Alx-404)
   
 
   
