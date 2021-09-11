@@ -34,14 +34,8 @@
 
   
 
-<p  align  =  "center">
-
-  
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="Javascript"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"  alt="Vuejs"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  alt="bash"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  alt="git"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"  alt="android"  width="40"  height="40"/>
-
-  
-
+<p  align="center">
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="Javascript"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"  alt="Vuejs"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"  alt="Bootstrap"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  alt="git"  width="40"  height="40"/><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"  alt="Postgresql"  width="40"  height="40"/>
 </p>
 
   
@@ -58,18 +52,9 @@
 
   
 
-<br><p  align="center">Everything here is Open Source!<br><br>
-
-  
-
+<br><p  align="center">Connect with me!<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-purple?&logo=instagram)](https://www.instagram.com/alx.py/)
-
-  
-
 [![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/VlzzLrOj)
-
-  
-
 [![Visits](https://badges.pufler.dev/visits/malbolgee/URI?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Alx-404)
 
   
@@ -89,13 +74,7 @@
   
 
 <td  width  =  "50%">
-
-  
-
 <br>
-
-  
-
 <p  align  =  "center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Alx-404&show_icons=true&theme=onedark&locale=en&layout=compact"  alt="Alx-404" /></p>
 
   
