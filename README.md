@@ -126,9 +126,9 @@
 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="Linux"  width="40"  height="40"/>
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"  alt="Linux"  width="40"  height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"  alt="Pandas"  width="40"  height="40"/>
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"  alt="Linux"  width="40"  height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"  alt="Jupyter"  width="40"  height="40"/>
 
    
 
