@@ -124,9 +124,11 @@
 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"  alt="Nodejs"  width="40"  height="40"/>
 
-  
-
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="Linux"  width="40"  height="40"/>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"  alt="Linux"  width="40"  height="40"/>
+
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"  alt="Linux"  width="40"  height="40"/>
 
    
 
