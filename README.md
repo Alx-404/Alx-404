@@ -53,8 +53,8 @@
   
 
 <br><p  align="center">Connect with me!<br><br>
-[![Instagram](https://img.shields.io/badge/Instagram-purple?&logo=instagram)](https://www.instagram.com/alx.py/)
-[![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/VlzzLrOj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderreis200/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alx.py/)
 ![Profile views](https://gpvc.arturio.dev/Alx-404)
   
 
